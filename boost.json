@@ -1,0 +1,17 @@
+{
+    "agents": ["junie", "codex", "gemini"],
+    "guidelines": true,
+    "packages": ["laravel/fortify"],
+    "skills": [
+        "wayfinder-development",
+        "pest-testing",
+        "inertia-vue-development",
+        "tailwindcss-development",
+        "vue-component-naming-standard",
+        "mini-rest-http-api-spec",
+        "laravel-api-resource-conventions",
+        "laravel-eloquent-model-conventions",
+        "laravel-xlsx-export-architecture",
+        "github-workflow-naming-standard"
+    ]
+}
